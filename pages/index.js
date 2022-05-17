@@ -39,14 +39,6 @@ export default function Home() {
             <h2>TBD &rarr;</h2>
             <p>TBD</p>
           </a>
-
-          <a
-            href="#"
-            className={styles.card}
-          >
-            <h2>TBD &rarr;</h2>
-            <p>TBD</p>
-          </a>
         </div>
       </main>
 
